@@ -11,9 +11,8 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - precise
-        - raring
-        - saucy
         - trusty
+        - xenial
   categories:
     - development
     - packaging
